@@ -46,3 +46,10 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 2.1 Close the text file window.
 
+See my YouTube Video for this script
+
+https://www.youtube.com/watch?v=_RIK7jIUEmU
+
+
+
+
