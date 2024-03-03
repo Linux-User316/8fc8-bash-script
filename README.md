@@ -1,8 +1,9 @@
 # 8fc8-bash-script
 
-## Ein Shell Skipt um ein Unlock einer DELL BIOS File mit dem Suffix-8FC8 durchzuführen:
+## A shell skip to unlock a DELL BIOS file with the suffix-8FC8:
 
-Using the script:
+
+### Using the script:
 
 The xxx.bin file to be edited should be stored in the Downloads folder in these instructions.
 
@@ -46,7 +47,7 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 2.1 Close the text file window.
 
-See my YouTube Video for this script
+### See my YouTube Video for this script.
 
 https://www.youtube.com/watch?v=_RIK7jIUEmU
 
