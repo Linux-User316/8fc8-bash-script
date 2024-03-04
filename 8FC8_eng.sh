@@ -3,9 +3,6 @@
 if [ ! -d /usr/share/doc/rename  ]; then
      sudo apt install rename
 fi
-if [ ! -d /usr/share/doc/colordiff  ]; then
-     sudo apt install colordiff
-fi
 if [ ! -d /usr/share/doc/hexedit  ]; then
      sudo apt install hexedit
 fi
