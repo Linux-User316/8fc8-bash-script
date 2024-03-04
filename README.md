@@ -53,7 +53,7 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 000c4f00 
 ```
-* **Everything is saved at the end with Ctrl + W.**
+* **Everything is saved at the end with Ctrl + w**
 
 * **Close the terminal window with Ctrl + x**
 
