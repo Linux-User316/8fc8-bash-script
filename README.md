@@ -1,6 +1,6 @@
 # 8fc8-bash-script
 
-## A shell script to unlock a DELL BIOS file with the Suffix : GFT56H-8FC8:
+## A shell script to unlock a DELL BIOS file with the Suffix : GFT5XXX-8FC8
 
 
 ### Using the script:
