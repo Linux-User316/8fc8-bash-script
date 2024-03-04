@@ -1,5 +1,8 @@
 #!/bin/bash
 
+if [ ! -d /usr/share/doc/rename  ]; then
+     sudo apt install rename
+fi
 if [ ! -d /usr/share/doc/colordiff  ]; then
      sudo apt install colordiff
 fi
@@ -9,8 +12,8 @@ fi
 if [ ! -d /usr/share/doc/wmctrl  ]; then
      sudo apt install wmctrl
 fi
-if [ ! -d /usr/share/doc/rename  ]; then
-     sudo apt install rename
+if [ ! -d /usr/share/doc/gawk ]; then
+     sudo apt install gawk
 fi
 
 ###########################################################################################
