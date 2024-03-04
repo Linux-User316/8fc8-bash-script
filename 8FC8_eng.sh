@@ -9,6 +9,9 @@ fi
 if [ ! -d /usr/share/doc/wmctrl  ]; then
      sudo apt install wmctrl
 fi
+if [ ! -d /usr/share/doc/rename  ]; then
+     sudo apt install rename
+fi
 
 ###########################################################################################
 
