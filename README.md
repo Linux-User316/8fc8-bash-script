@@ -21,6 +21,8 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 * **A new terminal window opens with the contents of xxx_unlocked.bin**
 ```
+for example:
+
 000c30a0 
 
 000c3590 
@@ -37,6 +39,8 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 * **Type the first offset line and press enter.**
 ```
+for example:
+
 0000c30a0 
 ```
 * **Behind New position? 0X000c30a0**
@@ -47,6 +51,8 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 * **The same process followed with lines 2, 3, 4 from the text file.**
 ```
+for example:
+
 000c3590 
 
 000c4890 
