@@ -65,6 +65,29 @@ for example:
 
 * **Close the text file window.**
 
+# Very important to know
+
+* **This is very important for analyzing the 2nd, 3rd or 4th correct offset lines, as an example**
+
+
+* **Correct scheme of bytes distribution: The 4th Byte is a random number 5th to 8th are 00 Bytes numbers**
+
+```
+
+000470a0: 00        FC         AA         81        00        00        00        00
+      	  └──1.Byte └──2.Byte  └──3.Byte  └──4.Byte └──5.Byte └──6.Byte └──7.Byte └──8.Byte
+
+```
+
+* **Wrong scheme of byte distribution: The Bytes from 4th to 8th are random numbers or letters**
+
+```
+
+001d5290: 00        FC         AA         3F        81        3C        A3        0C
+      	  └──1.Byte └──2.Byte  └──3.Byte  └──4.Byte └──5.Byte └──6.Byte └──7.Byte └──8.Byte
+
+```
+
 ### See my YouTube Video for this script.
 
 [YouTube Video Link](https://www.youtube.com/watch?v=_RIK7jIUEmU)
