@@ -15,11 +15,6 @@ START=$(find $HOME -iname 8FC8_eng.sh); bash $START
 
 * **Now two three or four offset lines appear in the open window. Reduce this window.**
 
-* **The locked.bin was copied to xxx_unlocked.bin.**
-
-* **Now select this file.**
-
-* **A new terminal window opens with the contents of xxx_unlocked.bin**
 ```
 for example:
 
@@ -29,8 +24,16 @@ for example:
 
 000c4890 
 
-000c4f00 
+000c4f00
+
 ```
+
+* **The locked.bin was copied to xxx_unlocked.bin.**
+
+* **Now select this file.**
+
+* **A new terminal window opens with the contents of xxx_unlocked.bin**
+
 * **Place both Terminal + Text file windows next to each other.**
 
 * **Press Ctrl + G in the terminal window.**
